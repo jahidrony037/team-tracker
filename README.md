@@ -15,6 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 # team-tracker
+Live Site Link : https://team-tracker37.netlify.app/
 
 # Features
 display the english premier league all teams 

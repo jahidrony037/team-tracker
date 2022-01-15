@@ -21,10 +21,13 @@ Live Site Link : https://team-tracker37.netlify.app/
 display the english premier league all teams 
 total temas are 20 
 maximum teams are male team and three teams are female team chelsea FC women team on of them 
+with conditional rendering show the female and male teams pic
 
 using react router , material ui ,react boststrap, it's responsive 
 
 using fancy icon from react icon and font awesome icon 
+
+
 
 
 
